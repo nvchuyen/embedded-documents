@@ -1,0 +1,3 @@
+﻿  Bai2_Lab8.c
+C:\Users\admin\source\repos\MyFirstProject\Lab8\Bai2_Lab8.c(78,14): warning C4013: 'getch' undefined; assuming extern returning int
+  Lab8.vcxproj -> C:\Users\admin\source\repos\MyFirstProject\x64\Debug\Lab8.exe

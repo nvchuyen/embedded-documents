@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1671874607 source:e:\funix\laptrinhiot\lab4\lab10\bai2_lab10\main.c
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	<stdlib.h>
+

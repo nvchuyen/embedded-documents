@@ -1,0 +1,3 @@
+﻿  Bai5_Lab7.c
+C:\Users\admin\source\repos\MyFirstProject\Lab7\Bai5_Lab7.c(27,16): warning C4133: 'function': incompatible types - from 'float [101]' to 'int *'
+  Lab7.vcxproj -> C:\Users\admin\source\repos\MyFirstProject\x64\Debug\Lab7.exe

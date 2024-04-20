@@ -1,0 +1,6 @@
+﻿  Bai2_Lab2.c
+C:\Users\admin\source\repos\MyFirstProject\Lab2\Bai2_Lab2.c(5,12): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+C:\Users\admin\source\repos\MyFirstProject\Lab2\Bai2_Lab2.c(5,8): warning C4024: 'scanf': different types for formal and actual parameter 1
+C:\Users\admin\source\repos\MyFirstProject\Lab2\Bai2_Lab2.c(6,10): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+C:\Users\admin\source\repos\MyFirstProject\Lab2\Bai2_Lab2.c(6,9): warning C4024: 'printf': different types for formal and actual parameter 1
+  Lab2.vcxproj -> C:\Users\admin\source\repos\MyFirstProject\x64\Debug\Lab2.exe

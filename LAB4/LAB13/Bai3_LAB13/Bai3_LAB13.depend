@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671900593 source:e:\funix\laptrinhiot\lab4\lab13\bai3_lab13\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

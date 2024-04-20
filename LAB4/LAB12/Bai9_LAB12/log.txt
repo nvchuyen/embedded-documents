@@ -1,0 +1,1 @@
+{"cmd":"set","objects":[{"type":"switch","data":["zwave-dc53:4-1"],"execution":{"command":"OnOff","params":{"on":true}}}],"raw":"DC530401010001","reqid": "0001"}
